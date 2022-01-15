@@ -1,4 +1,5 @@
 <img src="./assets/avatar.jpg" style="border-radius:10000px;margin-left:auto;margin-right:auto;display:block;" width="128px" />
+
 # Hey there! 👋
 
 [![Visitor](https://visitor-badge.laobi.icu/badge?page_id=developedBySJ)](https://github.com/developedBySJ) [![GitHub followers](https://img.shields.io/github/followers/developedBySJ.svg?style=social&label=Follow)](https://github.com/developedBySJ?tab=followers)
